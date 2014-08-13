@@ -250,7 +250,7 @@ var prisonJsonString = {
 			"prisonName": "法務部矯正署花蓮看守所",
 			"prisonWeb": "http://www.hld.moj.gov.tw",
 			"prisonZIP": "97058",
-			"prisonAddress": "花蓮市美崙日新崗1號"
+			"prisonAddress": "花蓮縣花蓮市美崙日新崗1號"
 		},
 		{
 			"prisonName": "法務部矯正署基隆看守所",
